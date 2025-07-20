@@ -1,1 +1,1 @@
-# ann-dividend-yield-prediction
+# Dividend Yield Prediction using ANN
