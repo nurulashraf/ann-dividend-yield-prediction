@@ -1,1 +1,1 @@
-# Dividend Yield Prediction using Artificial Neural Network
+# Dividend Yield Prediction using Artificial Neural Network (ANN)
